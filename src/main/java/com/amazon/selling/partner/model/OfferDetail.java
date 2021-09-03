@@ -51,9 +51,6 @@ public class OfferDetail {
   @SerializedName("SubCondition")
   private String subCondition = null;
 
-  @SerializedName("SellerId")
-  private String sellerId = null;
-
   @SerializedName("ConditionNotes")
   private String conditionNotes = null;
 
@@ -160,24 +157,6 @@ public class OfferDetail {
 
   public void setSubCondition(String subCondition) {
     this.subCondition = subCondition;
-  }
-
-  public OfferDetail sellerId(String sellerId) {
-    this.sellerId = sellerId;
-    return this;
-  }
-
-   /**
-   * The seller identifier for the offer.
-   * @return sellerId
-  **/
-  @ApiModelProperty(value = "The seller identifier for the offer.")
-  public String getSellerId() {
-    return sellerId;
-  }
-
-  public void setSellerId(String sellerId) {
-    this.sellerId = sellerId;
   }
 
   public OfferDetail conditionNotes(String conditionNotes) {
