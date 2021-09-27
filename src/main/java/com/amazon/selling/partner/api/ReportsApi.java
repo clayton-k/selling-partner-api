@@ -28,17 +28,17 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.CreateReportResponse;
-import com.amazon.selling.partner.model.CreateReportScheduleResponse;
-import com.amazon.selling.partner.model.CreateReportScheduleSpecification;
-import com.amazon.selling.partner.model.CreateReportSpecification;
-import com.amazon.selling.partner.model.ErrorList;
-import com.amazon.selling.partner.model.GetReportsResponse;
+import com.amazon.selling.partner.model.reports.CreateReportResponse;
+import com.amazon.selling.partner.model.reports.CreateReportScheduleResponse;
+import com.amazon.selling.partner.model.reports.CreateReportScheduleSpecification;
+import com.amazon.selling.partner.model.reports.CreateReportSpecification;
+import com.amazon.selling.partner.model.reports.ErrorList;
+import com.amazon.selling.partner.model.reports.GetReportsResponse;
 import java.time.OffsetDateTime;
-import com.amazon.selling.partner.model.Report;
-import com.amazon.selling.partner.model.ReportDocument;
-import com.amazon.selling.partner.model.ReportSchedule;
-import com.amazon.selling.partner.model.ReportScheduleList;
+import com.amazon.selling.partner.model.reports.Report;
+import com.amazon.selling.partner.model.reports.ReportDocument;
+import com.amazon.selling.partner.model.reports.ReportSchedule;
+import com.amazon.selling.partner.model.reports.ReportScheduleList;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

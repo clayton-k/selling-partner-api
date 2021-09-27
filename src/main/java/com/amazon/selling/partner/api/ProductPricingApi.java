@@ -28,8 +28,8 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.GetOffersResponse;
-import com.amazon.selling.partner.model.GetPricingResponse;
+import com.amazon.selling.partner.model.product.pricing.GetOffersResponse;
+import com.amazon.selling.partner.model.product.pricing.GetPricingResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

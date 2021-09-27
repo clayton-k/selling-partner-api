@@ -24,7 +24,7 @@ import com.google.gson.JsonElement;
 import io.gsonfire.GsonFireBuilder;
 import io.gsonfire.TypeSelector;
 
-import com.amazon.selling.partner.model.*;
+import com.amazon.selling.partner.model.vendor.transaction.status.*;
 import okio.ByteString;
 
 import java.io.IOException;

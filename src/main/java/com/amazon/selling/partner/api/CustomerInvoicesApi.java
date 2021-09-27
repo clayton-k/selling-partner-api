@@ -28,8 +28,8 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.GetCustomerInvoiceResponse;
-import com.amazon.selling.partner.model.GetCustomerInvoicesResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetCustomerInvoiceResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetCustomerInvoicesResponse;
 import java.time.OffsetDateTime;
 
 import java.lang.reflect.Type;

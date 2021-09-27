@@ -14,7 +14,7 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetOrderMetricsResponse;
+import com.amazon.selling.partner.model.sales.GetOrderMetricsResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

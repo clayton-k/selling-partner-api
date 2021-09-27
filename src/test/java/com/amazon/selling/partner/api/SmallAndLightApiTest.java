@@ -14,11 +14,11 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.ErrorList;
-import com.amazon.selling.partner.model.SmallAndLightEligibility;
-import com.amazon.selling.partner.model.SmallAndLightEnrollment;
-import com.amazon.selling.partner.model.SmallAndLightFeePreviewRequest;
-import com.amazon.selling.partner.model.SmallAndLightFeePreviews;
+import com.amazon.selling.partner.model.fba.small.and.light.ErrorList;
+import com.amazon.selling.partner.model.fba.small.and.light.SmallAndLightEligibility;
+import com.amazon.selling.partner.model.fba.small.and.light.SmallAndLightEnrollment;
+import com.amazon.selling.partner.model.fba.small.and.light.SmallAndLightFeePreviewRequest;
+import com.amazon.selling.partner.model.fba.small.and.light.SmallAndLightFeePreviews;
 import org.junit.Test;
 import org.junit.Ignore;
 

@@ -14,7 +14,7 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetMarketplaceParticipationsResponse;
+import com.amazon.selling.partner.model.sellers.GetMarketplaceParticipationsResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

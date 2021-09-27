@@ -13,7 +13,7 @@
 
 package com.amazon.selling.partner;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2021-09-03T11:48:02.916+08:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2021-09-27T17:50:38.933+08:00")
 public class Configuration {
     private static ApiClient defaultApiClient = new ApiClient();
 

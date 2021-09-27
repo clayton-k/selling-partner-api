@@ -14,10 +14,10 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetInvoiceStatusResponse;
-import com.amazon.selling.partner.model.GetShipmentDetailsResponse;
-import com.amazon.selling.partner.model.SubmitInvoiceRequest;
-import com.amazon.selling.partner.model.SubmitInvoiceResponse;
+import com.amazon.selling.partner.model.shipment.invoicing.GetInvoiceStatusResponse;
+import com.amazon.selling.partner.model.shipment.invoicing.GetShipmentDetailsResponse;
+import com.amazon.selling.partner.model.shipment.invoicing.SubmitInvoiceRequest;
+import com.amazon.selling.partner.model.shipment.invoicing.SubmitInvoiceResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

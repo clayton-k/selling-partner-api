@@ -14,8 +14,8 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.SubmitInvoicesRequest;
-import com.amazon.selling.partner.model.SubmitInvoicesResponse;
+import com.amazon.selling.partner.model.vendor.invoices.SubmitInvoicesRequest;
+import com.amazon.selling.partner.model.vendor.invoices.SubmitInvoicesResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

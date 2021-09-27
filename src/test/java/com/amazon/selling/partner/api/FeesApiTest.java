@@ -14,8 +14,8 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetMyFeesEstimateRequest;
-import com.amazon.selling.partner.model.GetMyFeesEstimateResponse;
+import com.amazon.selling.partner.model.product.fees.GetMyFeesEstimateRequest;
+import com.amazon.selling.partner.model.product.fees.GetMyFeesEstimateResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

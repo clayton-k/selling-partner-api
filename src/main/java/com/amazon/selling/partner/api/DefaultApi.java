@@ -28,8 +28,8 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.ListFinancialEventGroupsResponse;
-import com.amazon.selling.partner.model.ListFinancialEventsResponse;
+import com.amazon.selling.partner.model.finances.ListFinancialEventGroupsResponse;
+import com.amazon.selling.partner.model.finances.ListFinancialEventsResponse;
 import java.time.OffsetDateTime;
 
 import java.lang.reflect.Type;

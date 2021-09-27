@@ -14,16 +14,16 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.CreateDestinationRequest;
-import com.amazon.selling.partner.model.CreateDestinationResponse;
-import com.amazon.selling.partner.model.CreateSubscriptionRequest;
-import com.amazon.selling.partner.model.CreateSubscriptionResponse;
-import com.amazon.selling.partner.model.DeleteDestinationResponse;
-import com.amazon.selling.partner.model.DeleteSubscriptionByIdResponse;
-import com.amazon.selling.partner.model.GetDestinationResponse;
-import com.amazon.selling.partner.model.GetDestinationsResponse;
-import com.amazon.selling.partner.model.GetSubscriptionByIdResponse;
-import com.amazon.selling.partner.model.GetSubscriptionResponse;
+import com.amazon.selling.partner.model.notifications.CreateDestinationRequest;
+import com.amazon.selling.partner.model.notifications.CreateDestinationResponse;
+import com.amazon.selling.partner.model.notifications.CreateSubscriptionRequest;
+import com.amazon.selling.partner.model.notifications.CreateSubscriptionResponse;
+import com.amazon.selling.partner.model.notifications.DeleteDestinationResponse;
+import com.amazon.selling.partner.model.notifications.DeleteSubscriptionByIdResponse;
+import com.amazon.selling.partner.model.notifications.GetDestinationResponse;
+import com.amazon.selling.partner.model.notifications.GetDestinationsResponse;
+import com.amazon.selling.partner.model.notifications.GetSubscriptionByIdResponse;
+import com.amazon.selling.partner.model.notifications.GetSubscriptionResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

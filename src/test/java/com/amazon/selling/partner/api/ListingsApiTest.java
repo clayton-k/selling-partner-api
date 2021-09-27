@@ -14,10 +14,10 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.ErrorList;
-import com.amazon.selling.partner.model.ListingsItemPatchRequest;
-import com.amazon.selling.partner.model.ListingsItemPutRequest;
-import com.amazon.selling.partner.model.ListingsItemSubmissionResponse;
+import com.amazon.selling.partner.model.listings.items.ErrorList;
+import com.amazon.selling.partner.model.listings.items.ListingsItemPatchRequest;
+import com.amazon.selling.partner.model.listings.items.ListingsItemPutRequest;
+import com.amazon.selling.partner.model.listings.items.ListingsItemSubmissionResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

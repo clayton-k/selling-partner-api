@@ -28,7 +28,7 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.GetMarketplaceParticipationsResponse;
+import com.amazon.selling.partner.model.sellers.GetMarketplaceParticipationsResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

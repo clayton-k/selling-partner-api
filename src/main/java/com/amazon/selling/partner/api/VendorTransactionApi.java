@@ -28,7 +28,7 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.GetTransactionResponse;
+import com.amazon.selling.partner.model.vendor.transaction.status.GetTransactionResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

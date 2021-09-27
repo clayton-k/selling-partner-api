@@ -28,10 +28,10 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.ErrorList;
-import com.amazon.selling.partner.model.ListingsItemPatchRequest;
-import com.amazon.selling.partner.model.ListingsItemPutRequest;
-import com.amazon.selling.partner.model.ListingsItemSubmissionResponse;
+import com.amazon.selling.partner.model.listings.items.ErrorList;
+import com.amazon.selling.partner.model.listings.items.ListingsItemPatchRequest;
+import com.amazon.selling.partner.model.listings.items.ListingsItemPutRequest;
+import com.amazon.selling.partner.model.listings.items.ListingsItemSubmissionResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

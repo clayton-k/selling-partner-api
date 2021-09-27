@@ -14,7 +14,7 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetTransactionResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.transactions.GetTransactionResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

@@ -14,7 +14,7 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetInventorySummariesResponse;
+import com.amazon.selling.partner.model.fba.inventory.GetInventorySummariesResponse;
 import java.time.OffsetDateTime;
 import org.junit.Test;
 import org.junit.Ignore;

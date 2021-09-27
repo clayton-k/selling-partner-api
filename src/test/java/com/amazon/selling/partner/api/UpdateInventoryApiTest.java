@@ -14,8 +14,8 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.SubmitInventoryUpdateRequest;
-import com.amazon.selling.partner.model.SubmitInventoryUpdateResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.inventory.SubmitInventoryUpdateRequest;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.inventory.SubmitInventoryUpdateResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

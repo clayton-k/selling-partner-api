@@ -14,8 +14,8 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.CreateProductReviewAndSellerFeedbackSolicitationResponse;
-import com.amazon.selling.partner.model.GetSolicitationActionsForOrderResponse;
+import com.amazon.selling.partner.model.solicitations.CreateProductReviewAndSellerFeedbackSolicitationResponse;
+import com.amazon.selling.partner.model.solicitations.GetSolicitationActionsForOrderResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

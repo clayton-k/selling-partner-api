@@ -14,8 +14,8 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetCustomerInvoiceResponse;
-import com.amazon.selling.partner.model.GetCustomerInvoicesResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetCustomerInvoiceResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetCustomerInvoicesResponse;
 import java.time.OffsetDateTime;
 import org.junit.Test;
 import org.junit.Ignore;

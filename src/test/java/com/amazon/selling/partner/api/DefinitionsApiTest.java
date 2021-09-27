@@ -14,9 +14,9 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.ErrorList;
-import com.amazon.selling.partner.model.ProductTypeDefinition;
-import com.amazon.selling.partner.model.ProductTypeList;
+import com.amazon.selling.partner.model.product.type.definitions.ErrorList;
+import com.amazon.selling.partner.model.product.type.definitions.ProductTypeDefinition;
+import com.amazon.selling.partner.model.product.type.definitions.ProductTypeList;
 import org.junit.Test;
 import org.junit.Ignore;
 

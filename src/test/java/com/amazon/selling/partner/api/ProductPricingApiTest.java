@@ -14,8 +14,8 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetOffersResponse;
-import com.amazon.selling.partner.model.GetPricingResponse;
+import com.amazon.selling.partner.model.product.pricing.GetOffersResponse;
+import com.amazon.selling.partner.model.product.pricing.GetPricingResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

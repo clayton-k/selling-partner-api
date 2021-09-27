@@ -14,9 +14,9 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetCatalogItemResponse;
-import com.amazon.selling.partner.model.ListCatalogCategoriesResponse;
-import com.amazon.selling.partner.model.ListCatalogItemsResponse;
+import com.amazon.selling.partner.model.catalog.items.GetCatalogItemResponse;
+import com.amazon.selling.partner.model.catalog.items.ListCatalogCategoriesResponse;
+import com.amazon.selling.partner.model.catalog.items.ListCatalogItemsResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

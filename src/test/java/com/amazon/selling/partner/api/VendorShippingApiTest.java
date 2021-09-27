@@ -14,13 +14,13 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetPackingSlipListResponse;
-import com.amazon.selling.partner.model.GetPackingSlipResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetPackingSlipListResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetPackingSlipResponse;
 import java.time.OffsetDateTime;
-import com.amazon.selling.partner.model.SubmitShipmentConfirmationsRequest;
-import com.amazon.selling.partner.model.SubmitShipmentConfirmationsResponse;
-import com.amazon.selling.partner.model.SubmitShipmentStatusUpdatesRequest;
-import com.amazon.selling.partner.model.SubmitShipmentStatusUpdatesResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.SubmitShipmentConfirmationsRequest;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.SubmitShipmentConfirmationsResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.SubmitShipmentStatusUpdatesRequest;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.SubmitShipmentStatusUpdatesResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

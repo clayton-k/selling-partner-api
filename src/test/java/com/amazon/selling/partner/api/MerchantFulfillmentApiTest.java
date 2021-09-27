@@ -14,14 +14,14 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.CancelShipmentResponse;
-import com.amazon.selling.partner.model.CreateShipmentRequest;
-import com.amazon.selling.partner.model.CreateShipmentResponse;
-import com.amazon.selling.partner.model.GetAdditionalSellerInputsRequest;
-import com.amazon.selling.partner.model.GetAdditionalSellerInputsResponse;
-import com.amazon.selling.partner.model.GetEligibleShipmentServicesRequest;
-import com.amazon.selling.partner.model.GetEligibleShipmentServicesResponse;
-import com.amazon.selling.partner.model.GetShipmentResponse;
+import com.amazon.selling.partner.model.merchant.fulfillment.CancelShipmentResponse;
+import com.amazon.selling.partner.model.merchant.fulfillment.CreateShipmentRequest;
+import com.amazon.selling.partner.model.merchant.fulfillment.CreateShipmentResponse;
+import com.amazon.selling.partner.model.merchant.fulfillment.GetAdditionalSellerInputsRequest;
+import com.amazon.selling.partner.model.merchant.fulfillment.GetAdditionalSellerInputsResponse;
+import com.amazon.selling.partner.model.merchant.fulfillment.GetEligibleShipmentServicesRequest;
+import com.amazon.selling.partner.model.merchant.fulfillment.GetEligibleShipmentServicesResponse;
+import com.amazon.selling.partner.model.merchant.fulfillment.GetShipmentResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

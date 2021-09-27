@@ -28,8 +28,8 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.GetMyFeesEstimateRequest;
-import com.amazon.selling.partner.model.GetMyFeesEstimateResponse;
+import com.amazon.selling.partner.model.product.fees.GetMyFeesEstimateRequest;
+import com.amazon.selling.partner.model.product.fees.GetMyFeesEstimateResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

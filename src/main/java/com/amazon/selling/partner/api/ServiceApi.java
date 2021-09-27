@@ -28,13 +28,13 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.AddAppointmentRequest;
-import com.amazon.selling.partner.model.CancelServiceJobByServiceJobIdResponse;
-import com.amazon.selling.partner.model.CompleteServiceJobByServiceJobIdResponse;
-import com.amazon.selling.partner.model.GetServiceJobByServiceJobIdResponse;
-import com.amazon.selling.partner.model.GetServiceJobsResponse;
-import com.amazon.selling.partner.model.RescheduleAppointmentRequest;
-import com.amazon.selling.partner.model.SetAppointmentResponse;
+import com.amazon.selling.partner.model.services.AddAppointmentRequest;
+import com.amazon.selling.partner.model.services.CancelServiceJobByServiceJobIdResponse;
+import com.amazon.selling.partner.model.services.CompleteServiceJobByServiceJobIdResponse;
+import com.amazon.selling.partner.model.services.GetServiceJobByServiceJobIdResponse;
+import com.amazon.selling.partner.model.services.GetServiceJobsResponse;
+import com.amazon.selling.partner.model.services.RescheduleAppointmentRequest;
+import com.amazon.selling.partner.model.services.SetAppointmentResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

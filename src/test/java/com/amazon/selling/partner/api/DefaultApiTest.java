@@ -14,8 +14,8 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.ListFinancialEventGroupsResponse;
-import com.amazon.selling.partner.model.ListFinancialEventsResponse;
+import com.amazon.selling.partner.model.finances.ListFinancialEventGroupsResponse;
+import com.amazon.selling.partner.model.finances.ListFinancialEventsResponse;
 import java.time.OffsetDateTime;
 import org.junit.Test;
 import org.junit.Ignore;

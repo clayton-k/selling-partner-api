@@ -28,7 +28,7 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.GetAuthorizationCodeResponse;
+import com.amazon.selling.partner.model.authorization.GetAuthorizationCodeResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

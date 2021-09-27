@@ -28,18 +28,18 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.ErrorList;
-import com.amazon.selling.partner.model.GetContentDocumentResponse;
-import com.amazon.selling.partner.model.ListContentDocumentAsinRelationsResponse;
-import com.amazon.selling.partner.model.PostContentDocumentApprovalSubmissionResponse;
-import com.amazon.selling.partner.model.PostContentDocumentAsinRelationsRequest;
-import com.amazon.selling.partner.model.PostContentDocumentAsinRelationsResponse;
-import com.amazon.selling.partner.model.PostContentDocumentRequest;
-import com.amazon.selling.partner.model.PostContentDocumentResponse;
-import com.amazon.selling.partner.model.PostContentDocumentSuspendSubmissionResponse;
-import com.amazon.selling.partner.model.SearchContentDocumentsResponse;
-import com.amazon.selling.partner.model.SearchContentPublishRecordsResponse;
-import com.amazon.selling.partner.model.ValidateContentDocumentAsinRelationsResponse;
+import com.amazon.selling.partner.model.aplus.content.ErrorList;
+import com.amazon.selling.partner.model.aplus.content.GetContentDocumentResponse;
+import com.amazon.selling.partner.model.aplus.content.ListContentDocumentAsinRelationsResponse;
+import com.amazon.selling.partner.model.aplus.content.PostContentDocumentApprovalSubmissionResponse;
+import com.amazon.selling.partner.model.aplus.content.PostContentDocumentAsinRelationsRequest;
+import com.amazon.selling.partner.model.aplus.content.PostContentDocumentAsinRelationsResponse;
+import com.amazon.selling.partner.model.aplus.content.PostContentDocumentRequest;
+import com.amazon.selling.partner.model.aplus.content.PostContentDocumentResponse;
+import com.amazon.selling.partner.model.aplus.content.PostContentDocumentSuspendSubmissionResponse;
+import com.amazon.selling.partner.model.aplus.content.SearchContentDocumentsResponse;
+import com.amazon.selling.partner.model.aplus.content.SearchContentPublishRecordsResponse;
+import com.amazon.selling.partner.model.aplus.content.ValidateContentDocumentAsinRelationsResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

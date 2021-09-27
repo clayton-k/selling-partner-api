@@ -14,11 +14,11 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.GetShippingLabelListResponse;
-import com.amazon.selling.partner.model.GetShippingLabelResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetShippingLabelListResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetShippingLabelResponse;
 import java.time.OffsetDateTime;
-import com.amazon.selling.partner.model.SubmitShippingLabelsRequest;
-import com.amazon.selling.partner.model.SubmitShippingLabelsResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.SubmitShippingLabelsRequest;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.SubmitShippingLabelsResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

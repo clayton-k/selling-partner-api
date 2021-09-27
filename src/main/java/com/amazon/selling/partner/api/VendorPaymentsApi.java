@@ -28,8 +28,8 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.SubmitInvoicesRequest;
-import com.amazon.selling.partner.model.SubmitInvoicesResponse;
+import com.amazon.selling.partner.model.vendor.invoices.SubmitInvoicesRequest;
+import com.amazon.selling.partner.model.vendor.invoices.SubmitInvoicesResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

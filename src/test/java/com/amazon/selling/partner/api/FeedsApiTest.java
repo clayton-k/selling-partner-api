@@ -14,14 +14,14 @@
 package com.amazon.selling.partner.api;
 
 import com.amazon.selling.partner.ApiException;
-import com.amazon.selling.partner.model.CancelFeedResponse;
-import com.amazon.selling.partner.model.CreateFeedDocumentResponse;
-import com.amazon.selling.partner.model.CreateFeedDocumentSpecification;
-import com.amazon.selling.partner.model.CreateFeedResponse;
-import com.amazon.selling.partner.model.CreateFeedSpecification;
-import com.amazon.selling.partner.model.GetFeedDocumentResponse;
-import com.amazon.selling.partner.model.GetFeedResponse;
-import com.amazon.selling.partner.model.GetFeedsResponse;
+import com.amazon.selling.partner.model.feeds.CancelFeedResponse;
+import com.amazon.selling.partner.model.feeds.CreateFeedDocumentResponse;
+import com.amazon.selling.partner.model.feeds.CreateFeedDocumentSpecification;
+import com.amazon.selling.partner.model.feeds.CreateFeedResponse;
+import com.amazon.selling.partner.model.feeds.CreateFeedSpecification;
+import com.amazon.selling.partner.model.feeds.GetFeedDocumentResponse;
+import com.amazon.selling.partner.model.feeds.GetFeedResponse;
+import com.amazon.selling.partner.model.feeds.GetFeedsResponse;
 import java.time.OffsetDateTime;
 import org.junit.Test;
 import org.junit.Ignore;

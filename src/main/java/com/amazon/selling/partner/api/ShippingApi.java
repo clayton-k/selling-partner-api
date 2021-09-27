@@ -28,20 +28,20 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.CancelShipmentResponse;
-import com.amazon.selling.partner.model.CreateShipmentRequest;
-import com.amazon.selling.partner.model.CreateShipmentResponse;
-import com.amazon.selling.partner.model.GetAccountResponse;
-import com.amazon.selling.partner.model.GetRatesRequest;
-import com.amazon.selling.partner.model.GetRatesResponse;
-import com.amazon.selling.partner.model.GetShipmentResponse;
-import com.amazon.selling.partner.model.GetTrackingInformationResponse;
-import com.amazon.selling.partner.model.PurchaseLabelsRequest;
-import com.amazon.selling.partner.model.PurchaseLabelsResponse;
-import com.amazon.selling.partner.model.PurchaseShipmentRequest;
-import com.amazon.selling.partner.model.PurchaseShipmentResponse;
-import com.amazon.selling.partner.model.RetrieveShippingLabelRequest;
-import com.amazon.selling.partner.model.RetrieveShippingLabelResponse;
+import com.amazon.selling.partner.model.shipping.CancelShipmentResponse;
+import com.amazon.selling.partner.model.shipping.CreateShipmentRequest;
+import com.amazon.selling.partner.model.shipping.CreateShipmentResponse;
+import com.amazon.selling.partner.model.shipping.GetAccountResponse;
+import com.amazon.selling.partner.model.shipping.GetRatesRequest;
+import com.amazon.selling.partner.model.shipping.GetRatesResponse;
+import com.amazon.selling.partner.model.shipping.GetShipmentResponse;
+import com.amazon.selling.partner.model.shipping.GetTrackingInformationResponse;
+import com.amazon.selling.partner.model.shipping.PurchaseLabelsRequest;
+import com.amazon.selling.partner.model.shipping.PurchaseLabelsResponse;
+import com.amazon.selling.partner.model.shipping.PurchaseShipmentRequest;
+import com.amazon.selling.partner.model.shipping.PurchaseShipmentResponse;
+import com.amazon.selling.partner.model.shipping.RetrieveShippingLabelRequest;
+import com.amazon.selling.partner.model.shipping.RetrieveShippingLabelResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

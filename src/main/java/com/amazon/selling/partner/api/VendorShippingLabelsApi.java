@@ -28,11 +28,11 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.GetShippingLabelListResponse;
-import com.amazon.selling.partner.model.GetShippingLabelResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetShippingLabelListResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.GetShippingLabelResponse;
 import java.time.OffsetDateTime;
-import com.amazon.selling.partner.model.SubmitShippingLabelsRequest;
-import com.amazon.selling.partner.model.SubmitShippingLabelsResponse;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.SubmitShippingLabelsRequest;
+import com.amazon.selling.partner.model.vendor.direct.fulfillment.shipping.SubmitShippingLabelsResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

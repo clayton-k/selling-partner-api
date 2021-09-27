@@ -28,7 +28,7 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 
 
-import com.amazon.selling.partner.model.GetInventorySummariesResponse;
+import com.amazon.selling.partner.model.fba.inventory.GetInventorySummariesResponse;
 import java.time.OffsetDateTime;
 
 import java.lang.reflect.Type;
