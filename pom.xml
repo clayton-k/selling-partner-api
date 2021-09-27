@@ -4,7 +4,7 @@
     <groupId>io.github.clayton-k</groupId>
     <artifactId>selling-partner-api</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-2021.09.02</version>
+    <version>1.0.0-2021.09.27</version>
 
     <name>${project.artifactId}</name>
     <url>https://github.com/clayton-k/selling-partner-api</url>
