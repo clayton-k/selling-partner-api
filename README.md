@@ -1,3 +1,6 @@
+# HOW TO USE
+run scripts/swagger-codegen.sh, all selling-partner-api clients will be generated.
+
 # selling-partner-api
 
 Selling Partner API for A+ Content Management
