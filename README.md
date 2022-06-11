@@ -1,5 +1,10 @@
 # HOW TO USE
-run scripts/swagger-codegen.sh, all selling-partner-api clients will be generated.
+Under project selling-partner-api folder, run below commands, all selling-partner-api clients will be generated.
+
+```shell
+cd scripts
+sh swagger-codegen.sh
+```
 
 # selling-partner-api
 
